@@ -1,0 +1,29 @@
+name: firebase_remote_config_hybrid_web
+description: Web implementation of firebase_remote_config_hybrid plugin.
+homepage: https://github.com/JohnMusleh/firebase_remote_config_hybrid
+# NOTE: We strongly prefer non-breaking changes, even at the expense of a
+# less-clean API. See https://flutter.dev/go/platform-interface-breaking-changes
+version: 0.0.1
+
+flutter:
+  plugin:
+    platforms:
+      web:
+        pluginClass: FirebaseRemoteConfigWeb
+        fileName: firebase_remote_config_hybrid_web.dart
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_web_plugins:
+    sdk: flutter
+  firebase_remote_config_hybrid_platform_interface: ^0.0.1
+  firebase: 9.0.1
+
+dev_dependencies:
+  meta: ^1.1.7
+  js: ^0.6.1
+
+environment:
+  sdk: ">=2.0.0-dev.28.0 <3.0.0"
+  flutter: ">=1.10.1+hotfix.5 <2.0.0"
