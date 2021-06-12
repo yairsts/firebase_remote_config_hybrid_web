@@ -32,16 +32,40 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "firebase_core",
+      "rootUri": "file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "firebase_core_platform_interface",
+      "rootUri": "file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_platform_interface-4.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "firebase_core_web",
+      "rootUri": "file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "firebase_remote_config",
-      "rootUri": "file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_remote_config-0.3.1+1",
+      "rootUri": "file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_remote_config-0.10.0+2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "firebase_remote_config_hybrid_platform_interface",
+      "rootUri": "file:///C:/flutter/.pub-cache/git/firebase_remote_config_hybrid_platform_interface-ee6d422cea2f6b9fd7f195a68e12e9596befefe2/",
       "packageUri": "lib/",
       "languageVersion": "2.0"
     },
     {
-      "name": "firebase_remote_config_hybrid_platform_interface",
-      "rootUri": "file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_remote_config_hybrid_platform_interface-0.0.1",
+      "name": "firebase_remote_config_platform_interface",
+      "rootUri": "file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_remote_config_platform_interface-0.3.0+2",
       "packageUri": "lib/",
-      "languageVersion": "2.0"
+      "languageVersion": "2.12"
     },
     {
       "name": "flutter",
@@ -92,6 +116,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "plugin_platform_interface",
+      "rootUri": "file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/plugin_platform_interface-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "sky_engine",
       "rootUri": "file:///C:/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
@@ -134,7 +164,7 @@
       "languageVersion": "2.0"
     }
   ],
-  "generated": "2021-06-12T21:33:17.072033Z",
+  "generated": "2021-06-12T22:05:20.849478Z",
   "generator": "pub",
   "generatorVersion": "2.13.0"
 }
